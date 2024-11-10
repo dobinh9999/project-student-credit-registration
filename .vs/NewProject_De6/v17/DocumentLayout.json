@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|c:\\users\\84394\\source\\repos\\newproject_de6\\newproject_de6\\tt_mon_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tt_mon_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\l\u1ECBchhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\l\u1ECBchhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\phieudk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\phieudk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\tt_mon_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tt_mon_hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\formmain\\giaodiendangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\formmain\\giaodiendangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\homeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\phieudk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\phieudk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\trogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\trogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\formmain\\giaodiendangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\formmain\\giaodiendangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\tracuucongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tracuucongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\tracuucongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tracuucongno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tt_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\tt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\lophp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\lophp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\trogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\trogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\ds_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\ds_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\l\u1ECBchhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\l\u1ECBchhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|C:\\Users\\84394\\source\\repos\\NewProject_De6\\newproject_de6\\lophp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C834-BF22-48F3-8F2E-4D2D0E156C84}|NewProject_De6\\NewProject_De6.csproj|solutionrelative:newproject_de6\\lophp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Program.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\Program.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Program.cs",
+              "RelativeToolTip": "NewProject_De6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T02:38:30.472Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TT_mon_hp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_mon_hp.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TT_mon_hp.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_mon_hp.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\TT_mon_hp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T19:01:36.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\HomeForm.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\HomeForm.cs",
+              "RelativeToolTip": "NewProject_De6\\HomeForm.cs",
+              "ViewState": "AQIAAGgBAAAAAAAAAAAAAHwBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T09:38:27.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "giaodiendangnhap.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\FormMain\\giaodiendangnhap.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\FormMain\\giaodiendangnhap.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\FormMain\\giaodiendangnhap.cs",
+              "RelativeToolTip": "NewProject_De6\\FormMain\\giaodiendangnhap.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAADgv5IAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T05:49:30.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\HomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\HomeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\HomeForm.Designer.cs",
+              "RelativeToolTip": "NewProject_De6\\HomeForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4CAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:27:42.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TT_lop.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_lop.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TT_lop.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_lop.cs",
+              "RelativeToolTip": "NewProject_De6\\TT_lop.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAPcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:44:42.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhieuDK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\PhieuDK.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\PhieuDK.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\PhieuDK.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\PhieuDK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T12:50:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "L\u1ECBchHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\L\u1ECBchHoc.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\L\u1ECBchHoc.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\L\u1ECBchHoc.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\L\u1ECBchHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-19T04:21:41.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thanhtoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\thanhtoan.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\thanhtoan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\thanhtoan.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\thanhtoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T17:57:02.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TT_mon_hp.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_mon_hp.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TT_mon_hp.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_mon_hp.cs*",
+              "RelativeToolTip": "NewProject_De6\\TT_mon_hp.cs*",
+              "ViewState": "AQIAAHYBAAAAAAAAAAD4v4wBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T19:07:28.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhieuDK.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\PhieuDK.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\PhieuDK.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\PhieuDK.cs",
+              "RelativeToolTip": "NewProject_De6\\PhieuDK.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAASwHMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T09:30:38.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Khoa.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Khoa.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\Khoa.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Khoa.cs",
+              "RelativeToolTip": "NewProject_De6\\Khoa.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-19T17:27:08.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\HomeForm.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\HomeForm.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-29T06:42:18.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "giaodiendangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\FormMain\\giaodiendangnhap.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\FormMain\\giaodiendangnhap.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\FormMain\\giaodiendangnhap.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\FormMain\\giaodiendangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-18T17:59:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "thanhtoan.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\thanhtoan.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\thanhtoan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\thanhtoan.cs",
+              "RelativeToolTip": "NewProject_De6\\thanhtoan.cs",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAAACgBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T18:05:40.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TroGiup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TroGiup.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TroGiup.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TroGiup.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\TroGiup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T09:07:46.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Khoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Khoa.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\Khoa.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Khoa.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\Khoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-04T12:50:34.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tracuucongno.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\tracuucongno.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\tracuucongno.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\tracuucongno.cs",
+              "RelativeToolTip": "NewProject_De6\\tracuucongno.cs",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAAAEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:45:03.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\loading.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\loading.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\loading.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:50:43.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tracuucongno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\tracuucongno.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\tracuucongno.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\tracuucongno.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\tracuucongno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-25T07:33:01.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TT_lop.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_lop.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TT_lop.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_lop.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\TT_lop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T10:14:31.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\ThongKe.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\ThongKe.cs",
+              "RelativeToolTip": "NewProject_De6\\ThongKe.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-07T17:36:47.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TT_SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_SinhVien.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TT_SinhVien.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_SinhVien.cs",
+              "RelativeToolTip": "NewProject_De6\\TT_SinhVien.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T09:11:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TT_SinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_SinhVien.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TT_SinhVien.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TT_SinhVien.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\TT_SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-02T19:12:36.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ds_taikhoan.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\ds_taikhoan.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\ds_taikhoan.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\ds_taikhoan.cs",
+              "RelativeToolTip": "NewProject_De6\\ds_taikhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T09:25:05.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "L\u1ECBchHoc.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\L\u1ECBchHoc.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\L\u1ECBchHoc.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\L\u1ECBchHoc.cs",
+              "RelativeToolTip": "NewProject_De6\\L\u1ECBchHoc.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAcwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-19T10:20:06.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "lopHP.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\lopHP.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\lopHP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\lopHP.cs",
+              "RelativeToolTip": "NewProject_De6\\lopHP.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAswM8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-05T09:30:43.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "lopHP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\lopHP.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\lopHP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\lopHP.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\lopHP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T18:55:24.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TroGiup.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TroGiup.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\TroGiup.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\TroGiup.cs",
+              "RelativeToolTip": "NewProject_De6\\TroGiup.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T09:26:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Nganh.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Nganh.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\Nganh.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Nganh.cs",
+              "RelativeToolTip": "NewProject_De6\\Nganh.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAwwCwBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T07:14:30.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Nganh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Nganh.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\Nganh.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\Nganh.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\Nganh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-05T06:58:49.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\ThongKe.cs",
+              "RelativeDocumentMoniker": "NewProject_De6\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\NewProject_De6\\NewProject_De6\\ThongKe.cs [Design]",
+              "RelativeToolTip": "NewProject_De6\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-07T09:47:12.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

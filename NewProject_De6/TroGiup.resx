@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1.  Giới thiệu chức năng và phần mềm Quản lý Đăng ký Tín chỉ : 
+       - Phần mềm Quản lý Đăng ký Tín chỉ là một công cụ hiệu quả giúp quản lý thông tin đăng ký tín chỉ của 
+        sinh viên trong hệ thống giáo dục đại học. Với ứng dụng này, bạn có thể thêm, sửa đổi, xóa và tra cứu
+        thông tin về sinh viên, lớp, khoa, ngành, môn học phần, phiếu đăng ký, lớp học phần, thống kê, lịch 
+        học và các dịch vụ liên quan khác. Ứng dụng giúp tối ưu hóa quá trình quản lý đăng ký tín chỉ, nâng
+        cao hiệu suất của hệ thống đào tạo.
+
+2.   Khái quát các danh mục trong ứng dụng Quản lý Đăng ký Tín chỉ :
+       - Hệ thống :
+              + Đăng xuất : Cho phép người dùng đăng xuất để chuyển đổi sang tài khoản khác.
+              + Thoát : Cho phép người dùng thoát hẳn phần mềm.
+        - Danh nục quản lý :
+               + Sinh viên : Quản lý thông tin cá nhân, học vụ của sinh viên.
+               + Lớp : Quản lý danh sách các lớp học.
+               + Khoa : Quản lý thông tin về các khoa trong trường.
+               + Ngành : Quản lý danh sách các ngành học.
+               + Môn học phần : Quản lý thông tin về các môn học phần cung cấp cho sinh viên.
+               + Phiếu đăng ký : Quản lý thông tin về việc đăng ký tín chỉ của sinh viên.
+               + Lớp học phần : Quản lý thông tin về các lớp học phần được mở trong học kỳ.
+               + Thống kê : Công cụ cung cấp các bảng thống kê về số lượng sinh viên đăng ký thành công trong
+                   kỳ, số lượng sinh viên phải đăng ký lại ,số lượng môn học, và các thông tin quan trọng khác.
+               + Lịch học : Hiển thị lịch học của sinh viên dựa trên đăng ký tín chỉ.
+               + Tra cứu công nợ  : tra cứu thông tin về học phí các môn của sinh viên và có thể thanh toán công nợ cho sinh viên.
+
+3.  Chi tiết :
+          - Mỗi chức năng trong ứng dụng cung cấp các thao tác thêm, chỉnh sửa, xóa, tìm kiếm,
+          làm mới và xuất danh sách ra Excel.
+          - Thao tác :
+                + Thêm : Nhập dữ liệu cho các mục theo quy định, rồi nhấp "Thêm".
+                + Xóa : Chọn dòng dữ liệu muốn xóa trong bảng, xác nhận xóa. Nhấp "Xóa".
+                + Sửa : Chọn dòng dữ liệu muốn sửa trong bảng, nhập dữ liệu mới. Nhấp "Sửa".
+                + Tìm kiếm : Nhập thông tin vào ô tìm kiếm. Nhấp "Tìm kiếm".
+                + Làm mới : Tải lại text box về trạng thái ban đầu, không ảnh hưởng đến dữ liệu.
+                + Hiển thị lại dữ liệu  : Tải lại dữ liệu trong DataGridView sau khi tìm kiếm , không
+                    ảnh hưởng đến dữ liệu.
+                + In : Xuất các cột dữ liệu ra một file Exce , để quản lý trên giấy tờ.
+
+4.  Một số câu hỏi thường gặp :
+         - Làm thế nào để chỉnh sửa thông tin sinh viên?
+                 + Chọn sinh viên cần chỉnh sửa, nhập thông tin mới vào các trường. Nhấp "Sửa".
+          - Làm thế nào để tìm kiếm thông tin môn học cụ thể?
+                 + Nhập thông tin môn học vào ô tìm kiếm. Nhấp "Tìm kiếm".
+          - Nút "Làm mới" hoạt động như thế nào?
+                + Tải lại trang, làm trống các ô nhập liệu để bạn có thể tiếp tục thao tác mà không bị ảnh hưởng.
+
+5.  Liên hệ admin hỗ trợ :
+           - Để biết thêm chi tiết hoặc hỗ trợ, vui lòng liên hệ :
+                 + Số điện thoại : 0968689999
+                 + Email: binhking69@gmail.com</value>
+  </data>
+</root>
